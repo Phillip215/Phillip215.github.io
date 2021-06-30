@@ -10129,6 +10129,11 @@ button.bg-dark:focus {
   white-space: nowrap;
 }
 
+.box {
+  background-color: #abdde5;
+  max-width: max-content;
+}
+
 .text-left {
   text-align: left !important;
 }
