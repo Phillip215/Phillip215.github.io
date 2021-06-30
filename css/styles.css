@@ -44,6 +44,10 @@
     "Liberation Mono", "Courier New", monospace;
 }
 
+.num {
+  color: #008b8b;
+}
+
 *,
 *::before,
 *::after {
