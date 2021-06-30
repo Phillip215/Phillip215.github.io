@@ -10925,8 +10925,8 @@ header.masthead .masthead-subheading {
 }
 
 section#contact {
-  background-color: #212529;
-  background-image: url("../assets/img/about/image-from-rawpixel-id-2340277-original.jpg");
+  background-color: #f7f7f7;
+  /* background-image: url("../assets/img/about/image-from-rawpixel-id-2340277-original.jpg"); */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
